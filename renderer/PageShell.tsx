@@ -18,6 +18,9 @@ function PageShell({ children, pageContext }: { children: React.ReactNode; pageC
             <Link className="navitem" href="/e01">
               e01: Basic Types
             </Link>
+            <Link className="navitem" href="/e02">
+              e02: Arrays & Objects
+            </Link>
           </Sidebar>
           <Content>{children}</Content>
         </Layout>
