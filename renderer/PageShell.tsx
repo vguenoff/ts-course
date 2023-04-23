@@ -64,7 +64,7 @@ function Content({ children }: { children: React.ReactNode }) {
       style={{
         padding: 20,
         paddingBottom: 50,
-        borderLeft: '2px solid #eee',
+        borderLeft: '1px solid rgba(204, 204, 204, 0.1)',
         minHeight: '100vh',
       }}
     >

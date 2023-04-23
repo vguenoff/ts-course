@@ -3,6 +3,8 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: rgb(17, 17, 17);
+  color: rgb(204, 204, 204);
 }
 * {
   box-sizing: border-box;
@@ -15,5 +17,5 @@ a {
   padding: 3px 10px;
 }
 .navitem.is-active {
-  background-color: #eee;
+  color: rgb(204, 204, 204);
 }
